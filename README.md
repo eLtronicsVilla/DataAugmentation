@@ -1,2 +1,2 @@
 # DataAugumentation
-This repository is regarding Data Augumentation with different approach.
+This repository is regarding Data Augmentation with different approach.
